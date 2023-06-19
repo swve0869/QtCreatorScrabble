@@ -1,0 +1,43 @@
+<RCC>
+    <qresource prefix="/imgs">
+        <file>PNG/Blue/letter_A.png</file>
+        <file>PNG/Blue/letter_B.png</file>
+        <file>PNG/Blue/letter_C.png</file>
+        <file>PNG/Blue/letter_D.png</file>
+        <file>PNG/Blue/letter_E.png</file>
+        <file>PNG/Blue/letter_F.png</file>
+        <file>PNG/Blue/letter_G.png</file>
+        <file>PNG/Blue/letter_H.png</file>
+        <file>PNG/Blue/letter_I.png</file>
+        <file>PNG/Blue/letter_J.png</file>
+        <file>PNG/Blue/letter_K.png</file>
+        <file>PNG/Blue/letter_L.png</file>
+        <file>PNG/Blue/letter_M.png</file>
+        <file>PNG/Blue/letter_N.png</file>
+        <file>PNG/Blue/letter_O.png</file>
+        <file>PNG/Blue/letter_P.png</file>
+        <file>PNG/Blue/letter_Q.png</file>
+        <file>PNG/Blue/letter_R.png</file>
+        <file>PNG/Blue/letter_S.png</file>
+        <file>PNG/Blue/letter_T.png</file>
+        <file>PNG/Blue/letter_U.png</file>
+        <file>PNG/Blue/letter_V.png</file>
+        <file>PNG/Blue/letter_W.png</file>
+        <file>PNG/Blue/letter_X.png</file>
+        <file>PNG/Blue/letter_Y.png</file>
+        <file>PNG/Blue/letter_Z.png</file>
+        <file>PNG/Blue/letter.png</file>
+        <file>PNG/special/double_letter.png</file>
+        <file>PNG/special/double_word.png</file>
+        <file>PNG/special/doubler_letter.png</file>
+        <file>PNG/special/triple_word.png</file>
+        <file>PNG/special/tripple_letter.png</file>
+        <file>wordList.txt</file>
+        <file>PNG/Blue/bomb.png</file>
+        <file>sounds/mp3/bink.mp3</file>
+        <file>sounds/mp3/place.mp3</file>
+        <file>sounds/mp3/win.mp3</file>
+        <file>sounds/mp3/wow.mp3</file>
+        <file>sounds/mp3/bomb.mp3</file>
+    </qresource>
+</RCC>
