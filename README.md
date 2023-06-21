@@ -1,3 +1,4 @@
 # QtCreatorScrabble
 Scrabble game written in c++ witht the qtGUI sdk. 
 Here are some screenshots and a link to some gameplay
+https://youtu.be/umXOYXEDK7A
